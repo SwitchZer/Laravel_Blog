@@ -1,4 +1,4 @@
-Bagi yang ingin tutorial instalasi project ini silahkan cek https://youtu.be/XpGbmo3ZctE
+
 
 Intruksi manual
 Ketikkan:
@@ -28,6 +28,4 @@ Bagi yang ingin kembangkan menjadi lebih baik maka saya akan kasih beberapa clue
 17. Test Score website kalian menggunakan tool ini https://gtmetrix.com/
 18. Semoga berhasil
 
-Btw saya mungkin gak bisa cover semua hal diatas pada chanel saya.. tapi gak ada salahnya kan belajar mandiri?
-Good luck.. Kamu bisa.. iya kamu.. !!
 # Laravel_Blog
